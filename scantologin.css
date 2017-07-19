@@ -1,0 +1,44 @@
+#scantologin-container {
+    float: left;
+	position: relative;
+	margin: 0 0 22px 15px;
+	border-radius: 3px;
+	padding: 103px 16px 0;
+	height: 309px;
+}
+#scantologin-container #logo-container.zapperLogo {
+    background: #fff url(scan_to_login_logo.png) no-repeat -1px 0;
+	height: 110px;
+	width: 168px;
+	position: absolute;
+	top: 0;
+	left: 37px;
+}
+.scantologin-qrcode-placeholder {
+    text-align: center;
+}
+#scantologin-end-container {
+    clear: both;
+	position: absolute;
+	background: #fff url(appstore_icons.png) no-repeat 5px 36px;
+	height: 120px;
+	font-size: 14px;
+	text-align: center;
+	top: 295px;
+	left: -16px;
+	width: 258px;
+}
+#scantologin-end-container span#scantologin-available-for {
+    position: absolute;
+    top: 13px;
+    left: 88px;
+    display: block;
+    background: #fff url(available_for.png) no-repeat 0 0;
+    width: 87px;
+    height: 15px;
+}
+#scantologin-end-container a#scantologin-zapper-link {
+    position: absolute;
+    top: 103px;
+    left: 74px;
+}

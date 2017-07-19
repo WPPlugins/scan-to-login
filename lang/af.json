@@ -1,0 +1,35 @@
+{
+    "strings": {
+    "string": [
+      {"name": "enter_first_name", "value": "Afrikaans Translation Required"},
+      {"name": "enter_last_name", "value": "Afrikaans Translation Required"},
+      {"name": "enter_email_address_or_username", "value": "Afrikaans Translation Required"},
+      {"name": "enter_username", "value": "Afrikaans Translation Required"},
+      {"name": "enter_password", "value": "Afrikaans Translation Required"},
+      {"name": "enter_merchant_id", "value": "Afrikaans Translation Required"},
+      {"name": "enter_site_id", "value": "Afrikaans Translation Required"},
+      {"name": "already_registered", "value": "Afrikaans Translation Required"},
+      {"name": "authentication_failed", "value": "Afrikaans Translation Required"},
+      {"name": "merchant_id", "value": "Afrikaans Translation Required"},
+      {"name": "merchant_id_description", "value": "Afrikaans Translation Required"},
+      {"name": "site_id", "value": "Afrikaans Translation Required"},
+      {"name": "site_id_description", "value": "Afrikaans Translation Required"},
+      {"name": "allow_registration", "value": "Afrikaans Translation Required"},
+      {"name": "allow_any_user_registration", "value": "Afrikaans Translation Required"},
+      {"name": "enter_merchant_and_site_id", "value": "Afrikaans Translation Required"},
+      {"name": "allow_registration_title", "value": "Afrikaans Translation Required"},
+      {"name": "about", "value": "Afrikaans Translation Required"},
+      {"name": "add_qr_code", "value": "Afrikaans Translation Required"},
+      {"name": "configuration", "value": "Afrikaans Translation Required"},
+      {"name": "zapper_s2l", "value": "Afrikaans Translation Required"},
+      {"name": "registration_error", "value": "Afrikaans Translation Required"},
+      {"name": "registration_failed", "value": "Afrikaans Translation Required"},
+      {"name": "save_changes", "value": "Afrikaans Translation Required"},
+      {"name": "options_saved", "value": "Afrikaans Translation Required"},
+      {"name": "s2l_options", "value": "Afrikaans Translation Required"},
+      {"name": "show_advanced_options", "value": "Afrikaans Translation Required"},
+      {"name": "advanced_options", "value": "Afrikaans Translation Required"},
+      {"name": "demo_mode", "value": "Afrikaans Translation Required"}
+    ]
+  }
+}
